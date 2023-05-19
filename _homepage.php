@@ -3,7 +3,7 @@
     <img src="assets/img/banner/pay_banner.jpg" width="1920" height="366" alt="">
   </section>
   <div class="d-flex mx-auto justify-content-center ikiliButton">
-    <a href="?s=donation" class="btn-theme btn-gradient btn-slide btn-style" style="margin-right: 35px;">Bağış Yap <img
+    <a href="?s=donation" class="btn-theme btn-gradient btn-slide btn-style d-none" style="margin-right: 35px;">Bağış Yap <img
         class="icon icon-img" src="assets/img/icons/arrow-line-right2.png" alt="Icon"></a>
     <a href="?s=reprt_it" class="btn-theme btn-gradient btn-slide btn-style">Sorun Bildir! <img
         class="icon icon-img" src="assets/img/icons/arrow-line-right2.png" alt="Icon"></a>
@@ -38,7 +38,7 @@
         <div class="col-md-6 col-lg-4">
           <div class="icon-box-item item-three" style="height: 100%;">
             <div class="icon-box-top">
-              <h4 class="title">Raporlar ?</h4>
+              <h4 class="title">İlke ve Değerler</h4>
             </div>
             <div class="content">
               <p>Yaptığımız tüm faaliyetler sonucunda elde ettiğimiz ve üzerinde hala çalışmaya devam ettiğimiz konularla alakalı tüm raporlara buradan ulaşabilirsiniz.</p>
@@ -56,8 +56,41 @@
         <div class="col-lg-9">
           <div class="section-title position-relative z-index-1" data-aos="fade-up"
                data-aos-duration="1000">
-            <h5 class="subtitle line-theme-color">Sorun Bildir.</h5>
-            <h2 class="title"><span>Pay Gençlik Sorun Bildir</span></h2>
+            <h2 class="title"><span>PAY Gençlik ne yapar ?</span></h2>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xl-4">
+          <div class="layer-style" data-aos="fade-up" data-aos-duration="1100">
+            <div class="thumb">
+              <div class="row m-0">
+                <div class="col-12 tilt-animation">
+                  <img src="assets/img/banner/1.jpg" alt="PAY Gençlik ne yapar ?">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-8">
+          <div class="about-content" data-aos="fade-up" data-aos-duration="1100">
+            <p class="text-style">PAY Gençlik’in başlıca amacı, gençlerin kişisel gelişiminin tam olarak sağlanması ve gençlerin yaşadığı sorunların görünür hale getirilmesidir. PAY, gençlerin kendi bölgelerinde veya ülke çapında yaşadığı sorunları çeşitli yöntemlerle tespit ederek ve sorunların çözümü için ilgisi olan kurumlarla iletişim kurarak; gençler ve ilgili kurumlar arasında bir köprü oluşturmak için çalışır. Bunun yanında gençlerin, karar alma mekanizmalarında tam temsilinin sağlanarak gençlerin sorunlarının gençlerin kendisi tarafından dile getirilip, çözüme kavuşturulması adına çalışır. Gençlerin yetkin bireyler olarak toplumun ve hayatın her alanında yer alması için çeşitli kişisel ve sosyal gelişim programları da uygulayan PAY Gençlik dün olduğu gibi bugün ve yarın da sadece gençlerden taraf şekilde çalışmalarına devam edecektir.</p>
+            <a href="?s=ne_yapar" class="btn-theme btn-gradient btn-slide" style="margin-top: 20px;">Devamı...
+              <img class="icon icon-img" src="assets/img/icons/arrow-line-right2.png" alt="Icon">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="about-area about-default-area">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-9">
+          <div class="section-title position-relative z-index-1" data-aos="fade-up"
+               data-aos-duration="1000">
+            <h5 class="subtitle line-theme-color">Sorun Bildir</h5>
+            <h2 class="title"><span>Bir Sorunum Var!</span></h2>
           </div>
         </div>
       </div>
@@ -67,10 +100,10 @@
             <div class="thumb">
               <div class="row m-0">
                 <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4 p-0 d-none d-sm-block d-lg-none d-xl-block tilt-animation">
-                  <img src="assets/img/banner/1.jpg" alt="Sorun Bildir.">
+                  <img src="assets/img/banner/1.jpg" alt="Sorun Bildir">
                 </div>
                 <div class="col-sm-8 col-md-8 col-lg-12 col-xl-8 p-0 tilt-animation">
-                  <img class="img-two" src="assets/img/banner/2.jpg" alt="Sorun Bildir.">
+                  <img class="img-two" src="assets/img/banner/2.jpg" alt="Sorun Bildir">
                 </div>
               </div>
             </div>

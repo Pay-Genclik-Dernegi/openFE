@@ -1,5 +1,4 @@
   <main class="main-content site-wrapper-reveal">
-    <!--== Start Page Title Area ==-->
     <section class="page-title-area" data-bg-img="assets/img/banner/sorunbildir.jpg">
       <div class="container">
         <div class="row">
@@ -12,15 +11,12 @@
         </div>
       </div>
     </section>
-    <!--== End Page Title Area ==-->
-
-    <!--== Start About Area ==-->
     <section class="about-area">
       <div class="container">
         <div class="row">
           <div class="col-lg-9">
             <div class="section-title">
-              <h5 class="subtitle line-theme-color">Sorun Bildir.</h5>
+              <h5 class="subtitle line-theme-color">Sorun Bildir</h5>
               <h2 class="title">Süreç Nasıl İlerleyecek?</h2>
             </div>
           </div>
@@ -41,6 +37,8 @@
                 <li>-Sorunun çözümü adına ön raporu ve çalıştay sonucunda çıkan tam raporu ilettiğimiz ilgili kişi veya kurumun yaptığı faaliyetleri yakından izleyecek ve gelişmeleri açık bir şekilde dijital kaynaklarımız üzerinden yayınlayacağız.</li>
                 <li>-Sorunun çözümü konusunda çeşitli kampanyalar aracılığıyla kamuoyunda da bir farkındalık oluşturacağız.</li>
               </ul>
+
+              <a href="https://forms.gle/WSDtNHnJ68qTpjAY9" target="_blank">Sorun Bildir Formu için tıklayınız.</a>
             </div>
           </div>
         </div>

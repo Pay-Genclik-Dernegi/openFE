@@ -16,7 +16,7 @@
         <div class="row">
           <div class="col-lg-9">
             <div class="section-title">
-              <h5 class="subtitle line-theme-color">Raporlar.</h5>
+              <h5 class="subtitle line-theme-color">Raporlar</h5>
               <h2 class="title"><span>Raporlar</span></h2>
             </div>
           </div>

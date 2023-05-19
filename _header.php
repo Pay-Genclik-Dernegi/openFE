@@ -18,7 +18,8 @@
                                 <ul class="submenu-nav">
                                     <li><a href="?s=vizyon">Vizyon</a></li>
                                     <li><a href="?s=misyon">Misyon</a></li>
-                                    <li><a href="?s=teams">Ekip</a></li>
+                                    <li><a href="?s=ilke_ve_degerler">İlke ve Değerler</a></li>
+                                    <li><a href="?s=teams">Yönetim Kurulu</a></li>
                                     <li><a href="?s=brands">Kurumsal Kimlik</a></li>
                                 </ul>
                             </li>
@@ -34,6 +35,8 @@
                             <span></span>
                         </button>
                         <a href="?s=donation" class="btn-theme btn-gradient btn-slide btn-style">Bağış Yap <img
+                                class="icon icon-img" src="assets/img/icons/arrow-line-right2.png" alt="Icon"></a>
+                        <a href="?s=reprt_it" class="btn-theme btn-gradient btn-slide btn-style">Sorun Bildir <img
                                 class="icon icon-img" src="assets/img/icons/arrow-line-right2.png" alt="Icon"></a>
                     </div>
                 </div>

@@ -9,7 +9,7 @@
                             <a class="footer-logo" href="index.php">
                                 <img src="assets/img/logo.png" alt="Logo">
                             </a>
-                            <p>PAY Gençlik, paylaşmayı yaşamın merkezine alan, paylaşmanın ve ortak hareket etmenin gücüne inanan, <b>Farabi’nin Hak, Liyakat, Pay teorisinden</b>  aldığı ilhamla gençliğin dolayısıyla toplumun kalkınmasını hedefleyen, gençlerle iyiliği, güzelliği ve bilgiyi paylaşmada <b>payına düşeni yapmaya</b> çalışan profesyonellerin ortak bir paydada toplanarak kurduğu bir gençlik derneğidir.</p>
+                            <p>PAY Gençlik, paylaşmayı yaşamın merkezine alan, paylaşmanın ve ortak hareket etmenin gücüne inanan, <b>Farabi’nin Hak, Liyakat, PAY teorisinden</b>  aldığı ilhamla gençliğin dolayısıyla toplumun kalkınmasını hedefleyen, gençlerle iyiliği, güzelliği ve bilgiyi paylaşmada <b>PAYına düşeni yapmaya</b> çalışan profesyonellerin ortak bir paydada toplanarak kurduğu bir gençlik derneğidir.</p>
                         </div>
                     </div>
                 </div>
@@ -60,7 +60,7 @@
                 </div>
                 <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
                     <div class="widget-item menu-wrap-two-column">
-                        <h4 class="widget-title line-style">Hızlı Linkler</h4>
+                        <h4 class="widget-title line-style">Hızlı Bağlantılar</h4>
                         <nav class="widget-menu-wrap">
                             <div class="row">
                                 <div class="col-6 col-sm-6 col-md-6 pr-sm-5">
